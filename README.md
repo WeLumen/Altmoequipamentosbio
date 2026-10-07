@@ -1,6 +1,6 @@
 <div align="center">
 
-# Altmo Equipamentos | Link da Bio
+# ✦ Altmo Equipamentos | Link da Bio
 
 **Uma página de links pensada para vender: curso em destaque, atendimento direto e a marca da Altmo em cada detalhe.**
 
@@ -8,7 +8,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-0b0b0b?style=for-the-badge&logo=css3&logoColor=2a96db)
 ![Mobile first](https://img.shields.io/badge/Mobile_first-2a96db?style=for-the-badge)
 ![Zero dependências](https://img.shields.io/badge/Zero_depend%C3%AAncias-1d63b0?style=for-the-badge)
-![Feito por We Lúmen](https://img.shields.io/badge/Feito_por-We_L%C3%BAmen-0b0b0b?style=for-the-badge)
+[![Feito por We Lúmen](https://img.shields.io/badge/Feito_por-We_L%C3%BAmen-0b0b0b?style=for-the-badge)](https://welumen.com.br/)
 
 <img src="docs/preview.png" alt="Prévia da página de links da Altmo Equipamentos no celular" width="320">
 
@@ -88,12 +88,11 @@ Quando o curso terminar, basta trocar o bloco `<section class="event">` pelo pr�
 
 ## Sobre a We Lúmen
 
-A **We Lúmen** desenvolve sites e materiais digitais que ajudam empresas a se apresentar melhor e a transformar visitas em contatos.
+A [**We Lúmen**](https://welumen.com.br/) desenvolve sites e materiais digitais que ajudam empresas a se apresentar melhor e a transformar visitas em contatos.
 
-<!-- Complete com os canais da We Lúmen: -->
-<!-- - 🌐 Site: https://... -->
-<!-- - 📸 Instagram: https://instagram.com/... -->
-<!-- - 💬 WhatsApp: https://wa.me/55... -->
+- 🌐 Site: <https://welumen.com.br/>
+- 📸 Instagram: <https://www.instagram.com/welumenoficial/>
+- 💬 WhatsApp: <https://wa.me/5511968106788>
 
 ## Direitos de uso
 
@@ -103,6 +102,6 @@ Código e layout desenvolvidos pela We Lúmen para a Altmo Equipamentos. Os logo
 
 <div align="center">
 
-Feito com pela **We Lúmen**
+Feito com ✦ pela [**We Lúmen**](https://welumen.com.br/)
 
 </div>
